@@ -1,0 +1,32 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.reddit.Reddit",
+      "developerName": "straight-tamago",
+      "downloadURL": "https://github.com/straight-tamago/NoCameraSound/releases/download/5.0/NoCameraSound-5.0.ipa",
+      "iconURL": "https://github.com/straight-tamago/NoCameraSound/raw/main/NoCameraSound/NoCameraSound/Assets.xcassets/AppIcon.appiconset/1024.png",
+      "localizedDescription": "카메라를 무음으로 만들어줍니다.",
+      "name": "NoCameraSound",
+      "screenshotURLs": [
+       ],
+      "size": 755482 ,
+      "subtitle": "Filter out unwanted content from your Reddit feed. Configurable from in-app settings",
+      "tintColor": "ff4600",
+      "version": "5.0",
+      "versionDate": "2022-12-31T12:00:00-01:00",
+      "versionDescription": ""
+    }
+    
+  ],
+  "identifier": "com.parkm.altstorerepo",
+  "name": "altstore repo for Macdirtycow exploit.",
+  "news": [
+    {
+      "notify": false,
+      "tintColor": "ff4600",
+      "title": "thx for Ian Beer to find this vuln"
+    }
+  ],
+  "userInfo": {}
+}
