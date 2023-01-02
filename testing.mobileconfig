@@ -184,7 +184,7 @@
 			<key>allowiTunes</key>
 			<true/>
 			<key>enforcedSoftwareUpdateDelay</key>
-			<integer>40</integer>
+			<integer>69</integer>
 			<key>forceAirDropUnmanaged</key>
 			<false/>
 			<key>forceAirPrintTrustedTLSRequirement</key>
